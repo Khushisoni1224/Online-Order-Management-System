@@ -28,7 +28,7 @@ CREATE TABLE students (
     marks INT
 );
 
-# ** URL needed : **
+URL's needed : 
 String url = "jdbc:mysql://localhost:3306/"college_database";
 String user = "root";
 String password = "Khushimysql123";
