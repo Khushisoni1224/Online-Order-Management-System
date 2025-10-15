@@ -1,0 +1,9 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore MySQL connector jar
+*.jar
+
+# Ignore IDE/project files
+*.iml
+.idea/
